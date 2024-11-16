@@ -4,7 +4,7 @@ from collections import defaultdict
 import numpy as np
 
 # Carregar o modelo YOLO
-model = YOLO("runs/detect/train10/weights/best.pt")
+model = YOLO("runs/detect/train/weights/best.pt")
 
 # Caminho da imagem
 image_path = "C:/temp/ws-pycharm/Extensao/pythonProject/dataset/train/Oil Spill in Water_31.jpg"

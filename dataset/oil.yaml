@@ -1,12 +1,11 @@
-path: ./
-train: /train/
-validation: /validation/
+path: C:\temp\ws-pycharm\Extensao\pythonProject\dataset
+train: C:\temp\ws-pycharm\Extensao\pythonProject\dataset\train
+val: C:\temp\ws-pycharm\Extensao\pythonProject\dataset\validation
 test: 
 
 names:
   0: sem mancha
   1: com manhca
-  2: ]
-  3: baleia
-  4: Barco
-  5: w
+  2: baleia
+  3: Barco
+  4: w

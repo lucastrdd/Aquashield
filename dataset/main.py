@@ -5,10 +5,10 @@ from ultralytics import YOLO
 
 def main():
     # Load a model
-    model = YOLO("yolov8n.pt") 
+    model = YOLO("yolov10n.pt") 
 
     # Use the model
-    model.train(data="oil.yaml", epochs=30, device=0)  # Se vc não estiver usando GPU, apague a flag device
+    model.train(data="dataset/oil.yaml", epochs=30)  # Se vc não estiver usando GPU, apague a flag device
     metrics = model.val()
 
 

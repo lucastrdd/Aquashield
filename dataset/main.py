@@ -8,7 +8,7 @@ def main():
     model = YOLO("yolov10n.pt") 
 
     # Use the model
-    model.train(data="dataset/oil.yaml", epochs=30, device=0)  # Se vc não estiver usando GPU, apague a flag device
+    model.train(data="dataset/oil.yaml", epochs=300, device=0)  # Se vc não estiver usando GPU, apague a flag device
     metrics = model.val()
 
 

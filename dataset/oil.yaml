@@ -4,8 +4,4 @@ val: C:\temp\ws-pycharm\Extensao\pythonProject\dataset\validation
 test: 
 
 names:
-  0: sem mancha
-  1: com manhca
-  2: baleia
-  3: Barco
-  4: w
+  0: Mancha

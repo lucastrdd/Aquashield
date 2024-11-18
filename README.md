@@ -1,10 +1,10 @@
 # Detecção de Mancha de Óleo na Água com YOLO  
 
-Este projeto utiliza o modelo **YOLO (You Only Look Once)** para detectar manchas de óleo na água. O objetivo é criar uma solução eficiente e rápida para identificar áreas afetadas por vazamentos de óleo, ajudando na preservação ambiental e na resposta a desastres.  
+Projeto criado junto ao projeto de extensão Logical Space da Universidade Estadual da Paraíba (UEPB), que utiliza o modelo **YOLO (You Only Look Once)** para detectar manchas de óleo na água. O objetivo é criar uma solução eficiente e rápida para identificar áreas afetadas por vazamentos de óleo, ajudando na preservação ambiental e na resposta a desastres.  
 
 ## 📋 Visão Geral  
 
-A detecção de manchas de óleo é feita com base em imagens fornecidas por drones, satélites ou fotografias aéreas. O YOLO foi escolhido devido à sua alta precisão e desempenho em tarefas de detecção de objetos.  
+A detecção de manchas de óleo é feita com base em imagens fornecidas por drones, satélites ou fotografias aéreas. O YOLO foi escolhido devido à sua simplicidade de implementação, alta precisão e desempenho em tarefas de detecção de objetos.
 
 ## 🛠️ Funcionalidades  
 

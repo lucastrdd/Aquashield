@@ -1,0 +1,7 @@
+path: C:\temp\ws-pycharm\Extensao\pythonProject\dataset
+train: C:\temp\ws-pycharm\Extensao\pythonProject\dataset\train
+val: C:\temp\ws-pycharm\Extensao\pythonProject\dataset\validation
+test: C:\temp\ws-pycharm\Extensao\pythonProject\dataset\test
+
+names:
+  0: Mancha

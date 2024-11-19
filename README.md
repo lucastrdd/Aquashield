@@ -51,33 +51,21 @@ detecao-manchas-oleo/
 
 Para treinar o modelo, execute o script [`scripts/treino.py`](scripts/treino.py ):
 ```sh
-python 
-
-treino.py
-
-
+python treino.py
 ```
 
 ### Detecção em Imagens  
 
 Para detectar manchas de óleo em uma imagem, execute o script [`scripts/deteccaoImagem.py`](scripts/deteccaoImagem.py ):
 ```sh
-python 
-
-deteccaoImagem.py
-
-
+python deteccaoImagem.py
 ```
 
 ### Detecção em Tempo Real  
 
 Para detectar manchas de óleo em tempo real usando a webcam, execute o script [`scripts/deteccaoWebcam.py`](scripts/deteccaoWebcam.py ):
 ```sh
-python 
-
-deteccaoWebcam.py
-
-
+python deteccaoWebcam.py
 ```
 
 ## 📄 Licença  

@@ -1,4 +1,4 @@
-# Detecção de Mancha de Óleo na Água com YOLO  
+# Aquashield
 
 Projeto criado junto ao projeto de extensão Logical Space da Universidade Estadual da Paraíba (UEPB), que utiliza o modelo **YOLO (You Only Look Once)** para detectar manchas de óleo na água. O objetivo é criar uma solução eficiente e rápida para identificar áreas afetadas por vazamentos de óleo, ajudando na preservação ambiental e na resposta a desastres.  
 
